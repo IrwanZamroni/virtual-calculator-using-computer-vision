@@ -1,5 +1,5 @@
 # virtual-calculator-using-computer-vision
-virtual-tourism-information_ merupakan aplikasi berbasis computer vision yang menampilkan informasi tempat pariwisata yang ada pulau lombok.
+virtual-calculator-using-computer-vision merupakan aplikasi kalkulator berbasis computer vision yang memiliki fitur tambah kali, kurang, pangkat, akar.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
