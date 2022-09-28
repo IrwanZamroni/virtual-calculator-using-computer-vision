@@ -10,4 +10,4 @@ virtual-tourism-information_ merupakan aplikasi berbasis computer vision yang me
 
 
 
-<p><img align="center" alat="gif" src="https://github.com/IrwanZamroni/virtual-tourism-information_/blob/main/ezgif.com-gif-maker.gif" width="500" height="320" /><p>
+<p><img align="center" alat="gif" src="https://github.com/IrwanZamroni/virtual-calculator-using-computer-vision/blob/main/ezgif.com-gif-maker%20(1).gif" width="500" height="320" /><p>
