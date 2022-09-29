@@ -2,8 +2,6 @@
 
 <h2 align="center">Hi 👋, I'm Roni</h2>
 
-virtual-calculator-using-computer-vision merupakan aplikasi kalkulator berbasis computer vision yang memiliki fitur tambah kali, kurang, pangkat, akar, bagi.
-
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
